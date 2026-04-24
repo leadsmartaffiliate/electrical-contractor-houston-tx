@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://electrical-contractor-houston-tx.netlify.app/sitemap.xml
